@@ -31,3 +31,7 @@ output "vpc_id" {
   
 }
 
+# output "aws" {
+#   value = ""
+# }
+
